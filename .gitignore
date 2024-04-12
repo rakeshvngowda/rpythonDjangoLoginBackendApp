@@ -1,0 +1,9 @@
+.env
+
+# Django
+*.log
+*.pot
+*.pyc
+*.swp
+*.swo
+*.sqlite3
